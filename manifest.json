@@ -1,0 +1,26 @@
+{
+  "name": "GTİP Ezber",
+  "short_name": "GTİP",
+  "description": "GTİP tarife pozisyonlarını kolayca ezberleyin",
+  "start_url": "./gtip-ezber.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "tr"
+}
