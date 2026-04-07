@@ -2,7 +2,7 @@
   "name": "GTİP Ezber",
   "short_name": "GTİP",
   "description": "GTİP tarife pozisyonlarını kolayca ezberleyin",
-  "start_url": "https://mertcanaydar9-stack.github.io/GT-PEZBER/",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0e1a",
